@@ -1,0 +1,14 @@
+[package]
+name = "particles"
+version = "0.1.0"
+authors = ["Linus Johansen <linusen.a@gmail.com>"]
+edition = "2018"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+tetra = "0.6.5"
+rand = "0.8.4"
+num = "0.4.0"
+rayon = "1.5.1"
+threadpool = "1.8.1"
